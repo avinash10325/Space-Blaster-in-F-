@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FsharpApp</id>
+    <version>1.0.0</version>
+    <authors>FsharpApp</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="FSharp.Core" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="FsXaml.Wpf" version="3.1.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="UIAutomationTypes" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.7.2" />
+    </frameworkAssemblies>
+    <contentFiles>
+      <files include="any/net472/images/player.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\FsharpApp.exe" target="lib\net472\FsharpApp.exe" />
+    <file src="C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\images\player.png" target="content\images\player.png" />
+    <file src="C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\images\player.png" target="contentFiles\any\net472\images\player.png" />
+  </files>
+</package>

@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\harsh\\source\\repos\\ConsoleApplicationF1\\ConsoleApplicationF1\\ConsoleApplicationF1.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\harsh\\source\\repos\\ConsoleApplicationF1\\ConsoleApplicationF1\\ConsoleApplicationF1.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harsh\\source\\repos\\ConsoleApplicationF1\\ConsoleApplicationF1\\ConsoleApplicationF1.fsproj",
+        "projectName": "ConsoleApplicationF1",
+        "projectPath": "C:\\Users\\harsh\\source\\repos\\ConsoleApplicationF1\\ConsoleApplicationF1\\ConsoleApplicationF1.fsproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harsh\\source\\repos\\ConsoleApplicationF1\\ConsoleApplicationF1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

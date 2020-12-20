@@ -1,0 +1,19 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Views;assembly=GUItemplate"
+    Title="MainWindow" Height="615" Width="540" ResizeMode="NoResize">
+
+    <Canvas Background="LightBlue" Name="MyCanvas" Focusable="True">
+
+        <Rectangle Name="playerShip" Height="50" Width="60" Fill="Green" Canvas.Left="246" Canvas.Top="498"/>
+
+        <Label Name="scoreText" Content="Score: 0" FontSize="18" FontWeight="Bold" Foreground="White"/>
+        <Canvas Name="gameOver" Height="130" Canvas.Top="250" Width="534" Background="Black">
+            <Label Name="gameOverContent" Content="You have destroyed _ enemies press OK to play again!" Canvas.Left="96.8" Canvas.Top="10" FontSize="15" FontFamily="Tempus Sans ITC" Foreground="White" BorderBrush="#FFF40000" Background="#00000000" FontWeight="Bold"/>
+            <Button Name="OkButton" Content="OK" Canvas.Left="220" Style="{DynamicResource SimpleButton}" Canvas.Top="57.2" Width="75" FontFamily="Tempus Sans ITC" FontSize="15"/>
+        </Canvas>
+        <ProgressBar x:Name="healthBar" Height="21" Canvas.Left="410" Canvas.Top="10" Width="108" Value="100"/>
+
+    </Canvas>
+</Window>

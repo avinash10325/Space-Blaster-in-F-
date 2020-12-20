@@ -1,0 +1,106 @@
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\FSharp.Core.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\FsXaml.Wpf.TypeProvider.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\FsXaml.Wpf.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\cs\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\de\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\es\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\fr\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\it\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\ja\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\ko\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\pl\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\ru\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\tr\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\FsharpApp.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\FsharpApp.AssemblyInfo.fs
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\FsharpApp.fsproj.CopyComplete
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\bin\Debug\net472\Fsharp_SpaceShip.pdb
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\Fsharp_SpaceShip.g.resources
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\Fsharp_SpaceShip.pdb
+C:\Users\harsh\source\repos\ConsoleApplicationF1\ConsoleApplicationF1\obj\Debug\net472\FsharpApp.fsprojAssemblyReference.cache
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.pdb
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\FSharp.Core.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\FsXaml.Wpf.TypeProvider.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\FsXaml.Wpf.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\cs\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\de\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\es\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\fr\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\it\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\ja\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\ko\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\pl\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\ru\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\tr\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\FsharpApp.fsprojAssemblyReference.cache
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.g.resources
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\FsharpApp.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\FsharpApp.AssemblyInfo.fs
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\FsharpApp.fsproj.CopyComplete
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\harsh\source\repos\ConsoleApplicationF1\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.pdb
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.pdb
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\FSharp.Core.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\FsXaml.Wpf.TypeProvider.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\FsXaml.Wpf.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\cs\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\de\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\es\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\fr\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\it\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\ja\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\ko\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\pl\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\ru\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\tr\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.g.resources
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\obj\Debug\net472\FsharpApp.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\obj\Debug\net472\FsharpApp.AssemblyInfo.fs
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\obj\Debug\net472\FsharpApp.fsproj.CopyComplete
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\harsh\source\repos\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.pdb
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\Fsharp_SpaceShip.pdb
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\FSharp.Core.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\FsXaml.Wpf.TypeProvider.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\FsXaml.Wpf.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\cs\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\de\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\es\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\fr\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\it\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\ja\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\ko\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\pl\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\pt-BR\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\ru\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\tr\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\bin\Debug\net472\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.exe.config
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.g.resources
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\obj\Debug\net472\FsharpApp.AssemblyInfoInputs.cache
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\obj\Debug\net472\FsharpApp.AssemblyInfo.fs
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\obj\Debug\net472\FsharpApp.fsproj.CopyComplete
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.exe
+C:\Users\Phanindra Chunduru\Downloads\FsharpApp\FsharpApp\obj\Debug\net472\Fsharp_SpaceShip.pdb
